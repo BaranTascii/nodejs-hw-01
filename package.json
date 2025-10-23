@@ -1,5 +1,5 @@
 {
-  "name": "goit-node-js",
+  "name": "nodejs-hw-01",
   "version": "1.0.0",
   "description": "goit-node-js",
   "type": "module",
@@ -20,6 +20,7 @@
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.38.0",
+    "@faker-js/faker": "^10.1.0",
     "eslint": "^9.38.0",
     "globals": "^15.15.0",
     "nodemon": "^3.1.10"
